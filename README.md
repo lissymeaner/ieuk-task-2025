@@ -27,3 +27,6 @@ A FastAPI-powered application that checks the log IPs against the top 16 bot IPs
 Display a welcome message for all pages instead of just the index page
 ### To further verify:
 Spoof the top 16 IPs as client IPs.
+
+# Report
+https://www.notion.so/Report-232ad055c15780529203fb78bf729028?source=copy_link
